@@ -29,9 +29,9 @@
     </developers>
 
     <scm>
-        <connection>scm:git:git@github.com:wangym/java-common.git</connection>
-        <developerConnection>scm:git:git@github.com:wangym/java-common.git</developerConnection>
-        <url>git@github.com:wangym/java-common.git</url>
+        <connection>scm:git:git@github.com:wangym/kvdao.git</connection>
+        <developerConnection>scm:git:git@github.com:wangym/kvdao.git</developerConnection>
+        <url>git@github.com:wangym/kvdao.git</url>
     </scm>
 
     <properties>
