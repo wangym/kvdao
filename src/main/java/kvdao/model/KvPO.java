@@ -1,4 +1,4 @@
-package kvdao.pojo;
+package kvdao.model;
 
 import lombok.Getter;
 import lombok.Setter;
